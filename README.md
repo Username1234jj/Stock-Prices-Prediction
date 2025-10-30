@@ -1,5 +1,11 @@
 # Stock Prices Prediction
 
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
+![Pandas](https://img.shields.io/badge/Pandas-Used-success.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+
 This project predicts future stock prices using historical data and machine learning models. It helps to understand how stock market data can be analyzed and used to forecast trends.
 
 ## Overview
